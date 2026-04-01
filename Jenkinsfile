@@ -21,6 +21,3 @@ pipeline{
         }
     }
 }
-
-
-https://github.com/monishgowda045/DevOps-Project-Two-Tier-Flask-App can u replace as expected
